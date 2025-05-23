@@ -1,0 +1,103 @@
+{
+  "agcgw": {
+    "url": "connect-drcn.dbankcloud.cn",
+    "backurl": "connect-drcn.hispace.hicloud.com",
+    "websocketurl": "connect-ws-drcn.hispace.dbankcloud.cn",
+    "websocketbackurl": "connect-ws-drcn.hispace.dbankcloud.com"
+  },
+  "agcgw_all": {
+    "SG": "connect-dra.dbankcloud.cn",
+    "SG_back": "connect-dra.hispace.hicloud.com",
+    "CN": "connect-drcn.dbankcloud.cn",
+    "CN_back": "connect-drcn.hispace.hicloud.com",
+    "RU": "connect-drru.hispace.dbankcloud.ru",
+    "RU_back": "connect-drru.hispace.dbankcloud.cn",
+    "DE": "connect-dre.dbankcloud.cn",
+    "DE_back": "connect-dre.hispace.hicloud.com"
+  },
+  "websocketgw_all": {
+    "SG": "connect-ws-dra.hispace.dbankcloud.cn",
+    "SG_back": "connect-ws-dra.hispace.dbankcloud.com",
+    "CN": "connect-ws-drcn.hispace.dbankcloud.cn",
+    "CN_back": "connect-ws-drcn.hispace.dbankcloud.com",
+    "RU": "connect-ws-drru.hispace.dbankcloud.ru",
+    "RU_back": "connect-ws-drru.hispace.dbankcloud.cn",
+    "DE": "connect-ws-dre.hispace.dbankcloud.cn",
+    "DE_back": "connect-ws-dre.hispace.dbankcloud.com"
+  },
+  "client": {
+    "cp_id": "30086000787640960",
+    "product_id": "461323198429918981",
+    "client_id": "1683936630873790400",
+    "client_secret": "[!00ECFF9A2F9AF1C2113A59C43668571D429433286EBB1263DA5484693F7BD6E9CD070363DDC00B4EFA24AFE7A9C86CDDEF6297D978342C51503B2773B153C6CA307EBCD0424BEBFDD20785088598547D83B70C7FF6C28DBAA486305821BE38DAB9]",
+    "project_id": "461323198429918981",
+    "app_id": "6917573004377128068",
+    "api_key": "[!00C30F351666B04797191FE0632DEA8F067266D9C08C80FFA3B52441F5C98C695C65B5D42947E353E242865E94652361E68CFD3AE05A087B19432286C34F8B7F8B8258CF8DAF1A706A36801D39F7B08B9BB2A420945A749D0CF73F1FEDF8697D499AB1985B8F32A7576A6C2A39E611D4F546266EF7450408AD10C193696E92B2AA]",
+    "package_name": "com.testweixin.weixin"
+  },
+  "oauth_client": {
+    "client_id": "6917573004377128068",
+    "client_type": 30
+  },
+  "app_info": {
+    "app_id": "6917573004377128068",
+    "package_name": "com.testweixin.weixin"
+  },
+  "code": {
+    "code1": "2FE8421AB5B0ED99A9EA94853A0FBFC6",
+    "code2": "49DB4B8A53FB7635F6595918BFE39EB1",
+    "code3": "1FE7934B99D4ECD6A667AD0C58828D5A",
+    "code4": "686C451C991825B74F193027DBD6B28A"
+  },
+  "service": {
+    "analytics": {
+      "collector_url": "datacollector-drcn.dt.hicloud.com,datacollector-drcn.dt.dbankcloud.cn",
+      "collector_url_cn": "datacollector-drcn.dt.hicloud.com,datacollector-drcn.dt.dbankcloud.cn",
+      "collector_url_de": "datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+      "collector_url_ru": "datacollector-drru.dt.dbankcloud.ru,datacollector-drru.dt.hicloud.com",
+      "collector_url_sg": "datacollector-dra.dt.hicloud.com,datacollector-dra.dt.dbankcloud.cn",
+      "resource_id": "p1",
+      "channel_id": ""
+    },
+    "ml": {
+      "mlservice_url": "ml-api-drcn.ai.dbankcloud.com,ml-api-drcn.ai.dbankcloud.cn"
+    },
+    "cloudstorage": {
+      "storage_url": "https://agc-storage-drcn.platform.dbankcloud.cn",
+      "storage_url_ru": "https://agc-storage-drru.cloud.huawei.ru",
+      "storage_url_sg": "https://ops-dra.agcstorage.link",
+      "storage_url_de": "https://ops-dre.agcstorage.link",
+      "storage_url_cn": "https://agc-storage-drcn.platform.dbankcloud.cn",
+      "storage_url_ru_back": "https://agc-storage-drru.cloud.huawei.ru",
+      "storage_url_sg_back": "https://agc-storage-dra.cloud.huawei.asia",
+      "storage_url_de_back": "https://agc-storage-dre.cloud.huawei.eu",
+      "storage_url_cn_back": "https://agc-storage-drcn.cloud.huawei.com.cn",
+      "default_storage": "default-bucket-76rpg"
+    },
+    "search": {
+      "url": "https://search-drcn.cloud.huawei.com"
+    },
+    "edukit": {
+      "edu_url": "edukit.cloud.huawei.com.cn",
+      "dh_url": "edukit.cloud.huawei.com.cn"
+    }
+  },
+  "region": "CN",
+  "configuration_version": "3.0",
+  "appInfos": [
+    {
+      "package_name": "com.testweixin.weixin",
+      "client": {
+        "client_secret": "[!0028EE4BB41479AC552719BA59D126FBA9F7686ADAD3092E1B1D8E6A7FF5F5DC1F74B5BCCBF051BB1BD74C71AC5C2FB98DE551F2DA341CD222E94269D36CBB804CC5043B2D9C25E43C5D8E1094421B88E6310575368E9BA262B1A3601F99094F0D]",
+        "app_id": "6917573004377128068",
+        "api_key": "[!00B38FD96EB18CF10BB23A782AD3F84161F84E715558ABF00E2638E68077BFF4D2B127758024F23FE150770D00C6270E6D4EE7B588578237E5B275189E6EA970E7CD306F3C6DA8927D4A3D2AC3C44A0DD6F2FCEEAFC5A4BB497213B542928DAB9C88786E694D509264843DBA613976EAB915C92283D9986D6CCFD42414400CB186]"
+      },
+      "code": {
+        "code1": "0A58CEB4491573F717FDB2479CF03828D81D2D3B81356212D56C7E092A745D4D",
+        "code2": "229DDA968554D6C4EA93EB24235E7FD54A7B79C415A653D42FAA6FF3BD996B52",
+        "code3": "A3AE461CE651AD02A53BB43F6B7EB88E419841339F0DC223E86FEBFE1E26AD33",
+        "code4": "4AAC64B82E8AE4F2BB78E9A47E2788B9"
+      }
+    }
+  ]
+}
